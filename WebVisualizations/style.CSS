@@ -1,0 +1,22 @@
+/* Styling for HTML elements */
+body {
+  background:lightgray;  
+}
+
+navbar{
+  position: absolute;
+  top: 50px;
+  right: 50px;
+  background:lightgray; 
+}
+   
+  h1 {
+    background:lightgray;  
+    padding: 10px;
+    margin: 5px;
+    margin-bottom: 10px;
+    font-size: 28px;
+    color: rgb(60, 148, 148);
+    font-weight: bold;
+    text-align: left;
+  }
