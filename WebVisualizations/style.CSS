@@ -1,15 +1,17 @@
 /* Styling for HTML elements */
+
+/* colors the whole page */
 body {
-  background:lightgray;  
+  background:white;  
 }
 
-navbar{
+/* colors the plot comparison data bar */
+.navbar{
   position: absolute;
-  top: 50px;
-  right: 50px;
-  background:lightgray; 
-}
-   
+  right: 30px;
+  background:white; 
+} 
+    
   h1 {
     background:lightgray;  
     padding: 10px;
@@ -20,3 +22,5 @@ navbar{
     font-weight: bold;
     text-align: left;
   }
+
+ 
