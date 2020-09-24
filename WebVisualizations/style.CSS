@@ -5,6 +5,10 @@ body {
   background:white;  
 }
 
+.btn {
+  background: rgb(60, 148, 148)
+}
+
 /* colors the plot comparison data bar */
 .navbar{
   position: absolute;
